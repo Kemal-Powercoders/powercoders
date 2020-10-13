@@ -1,0 +1,40 @@
+html {height: 200px;
+  background-image: linear-gradient(to right, rgba(74,255,74), rgba(255,0,0));
+}
+
+body {
+	font: Arial, Helvetica, sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    letter-spacing: .1em;
+    top: 15%;
+}
+
+h1 {
+    font: 600 3.5em Arial, Helvetica, sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
+h3 {
+	font: 900 1.2em Serif, Helvetica, sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.7em;
+}
+
+#readmore{
+    background:rgba(74,255,74);
+    width: 80px;
+    height: 30px; 
+}
+
+#readmore1{
+    background:rgba(255,0,0); 
+    width: 80px;
+    height: 30px; 
+}
