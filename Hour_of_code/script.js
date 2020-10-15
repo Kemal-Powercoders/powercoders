@@ -7,6 +7,5 @@ color1.onclick= function(){
 }
 color2.onclick= function(){
     var change= document.getElementById("color");
-    change.style.backgroundImage='linear-gradient(rgba(74,255,74), rgb(255,0,0))'
-    
+    change.style.backgroundImage='linear-gradient(rgba(74,255,74), rgb(255,0,0))'   
 }
