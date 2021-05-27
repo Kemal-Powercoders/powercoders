@@ -49,7 +49,7 @@ box.addEventListener("keypress", function (event) {
             
             break
         default:
-            this.name = ""
+          
             resultemj = bad
             text = " <br>You have to type a number between 1 and 5";
             break
